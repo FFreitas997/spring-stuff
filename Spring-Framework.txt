@@ -1,0 +1,12 @@
+Java Spring Framework
+
+	1. Goals of Spring
+		a. Java POJOs (Plain-Old-Java-Objects)
+		b. Dependency Injection to promote loose coupling
+		c. AOP (Aspect-Oriented-Programming)
+
+	2. Core Container (Manage Beans)
+		a. Beans
+		b. Core
+		c. SpEl (Spring Lang)
+		d. Context
